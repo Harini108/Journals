@@ -7,6 +7,6 @@
   <title>Harini's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://harini108.github.io/Journals &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src="url= https://harini108.github.io/Journals &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
